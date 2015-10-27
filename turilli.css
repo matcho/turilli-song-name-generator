@@ -1,0 +1,16 @@
+body {
+	padding: 20px;
+}
+
+#results li {
+	font-size: 1.2em;
+}
+
+.omg {
+	color: red;
+	font-style: italic;
+}
+
+.rikiki {
+	font-size: 0.6em;
+}
